@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1678728971 source:d:\bmtp_git\lab08\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesKohan.h"
+
+1678728040 d:\bmtp_git\lab08\prj\testdriver\moduleskohan.h
+

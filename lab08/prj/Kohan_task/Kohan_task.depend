@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1678728809 source:d:\bmtp_git\lab08\prj\kohan_task\main.cpp
+	<iostream>
+	<clocale>
+	"ModulesKohan.h"
+
+1678725562 d:\bmtp_git\lab08\prj\kohan_task\moduleskohan.h
+
+1678724989 d:\bmtp_git\lab08\prj\moduleskohan\moduleskohan.h
+
