@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1678724897 source:d:\bmtp_git\lab08\prj\moduleskohan\main.cpp
+	<cmath>
+
+1681916764 source:d:\gitbmtp9\kokhan-ihor-kn22\lab09\prj\moduleskohan\main.cpp
+	<cmath>
+	<iostream>
+	"ModulesKohan.h"
+	<utility>
+
+1681916746 d:\gitbmtp9\kokhan-ihor-kn22\lab09\prj\moduleskohan\moduleskohan.h
+
