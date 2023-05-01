@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1682863315 source:d:\bmtplab9\kokhan-ihor-kn22\lab10\prj\tetsdriver\testdriver10.1.3\tetsdriver10.1.3\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<ModulesKohan.h>
+
+1682860877 d:\bmtplab9\kokhan-ihor-kn22\lab10\prj\moduleskohan\moduleskohan.h
+	<string>
+
