@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1685470842 source:c:\users\user\desktop\lab11\prj\moduleskohan\moduleskikhot\kikhotmodules\main.cpp
+	"KikhotModules.h"
+	<iostream>
+	<fstream>
+
+1685470842 c:\users\user\desktop\lab11\prj\moduleskohan\moduleskikhot\kikhotmodules\kikhotmodules.h
+	<vector>
+	<string>
+
+1685470842 source:c:\users\user\desktop\lab11\prj\modules\kikhotmodules\main.cpp
+	"KikhotModules.h"
+	<iostream>
+	<fstream>
+
+1685470842 c:\users\user\desktop\lab11\prj\modules\kikhotmodules\kikhotmodules.h
+	<vector>
+	<string>
+

@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1685473474 source:c:\users\user\desktop\lab11\prj\task\main.cpp
+	<iostream>
+	"KikhotModules.h"
+	"ModulesKohan.h"
+	"KovalovModules.h"
+	<windows.h>
+
+1685470842 c:\users\user\desktop\lab11\prj\modules\kikhotmodules\kikhotmodules.h
+	<vector>
+	<string>
+
+1685470842 c:\users\user\desktop\lab11\prj\modules\moduleskohan\moduleskohan.h
+	<vector>
+	<string>
+	"KikhotModules.h"
+
+1685470842 c:\users\user\desktop\lab11\prj\modules\moduleskohan\kikhotmodules.h
+	<vector>
+	<string>
+
+1685471870 c:\users\user\desktop\lab11\prj\modules\kovalovmodules\kovalovmodules.h
+	<vector>
+	<string>
+	"KikhotModules.h"
+
+1685470842 c:\users\user\desktop\lab11\prj\modules\kovalovmodules\kikhotmodules.h
+	<vector>
+	<string>
+
+1685473474 source:d:\bmtp\kokhan-ihor-kn22\lab11\prj\task\main.cpp
+	<iostream>
+	"KikhotModules.h"
+	"ModulesKohan.h"
+	"KovalovModules.h"
+	<windows.h>
+
+1685470842 d:\bmtp\kokhan-ihor-kn22\lab11\prj\modules\kikhotmodules\kikhotmodules.h
+	<vector>
+	<string>
+
+1685470842 d:\bmtp\kokhan-ihor-kn22\lab11\prj\modules\moduleskohan\moduleskohan.h
+	<vector>
+	<string>
+	"KikhotModules.h"
+
+1685470842 d:\bmtp\kokhan-ihor-kn22\lab11\prj\modules\moduleskohan\kikhotmodules.h
+	<vector>
+	<string>
+
+1685471870 d:\bmtp\kokhan-ihor-kn22\lab11\prj\modules\kovalovmodules\kovalovmodules.h
+	<vector>
+	<string>
+	"KikhotModules.h"
+
+1685470842 d:\bmtp\kokhan-ihor-kn22\lab11\prj\modules\kovalovmodules\kikhotmodules.h
+	<vector>
+	<string>
+
