@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1685902903 source:d:\12lab\prj\piramide\main.cpp
+	<iostream>
+	<stdexcept>
+	<cmath>
+

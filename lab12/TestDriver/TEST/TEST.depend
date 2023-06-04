@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685903598 source:d:\12lab\testdriver\test\main.cpp
+	<iostream>
+	<stdexcept>
+	<cmath>
+	<cassert>
+
+1685904012 source:d:\bmtp\kokhan-ihor-kn22\lab12\testdriver\test\main.cpp
+	<iostream>
+	<stdexcept>
+	<cmath>
+	<cassert>
+
